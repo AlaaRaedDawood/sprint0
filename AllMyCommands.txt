@@ -42,6 +42,13 @@ $ git checkout master
 
 $ git merge ReadMe
 
+$ git add 'AllMyCommands.txt'
+
+$ git commit -m 'added AllMyCommands to the master branch'
+
+$ git push origin master
+
+
 
 
 
